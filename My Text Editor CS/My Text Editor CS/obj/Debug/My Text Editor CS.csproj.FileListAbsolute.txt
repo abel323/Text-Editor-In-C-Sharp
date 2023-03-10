@@ -1,0 +1,9 @@
+D:\Visual Studio Project\My Text Editor CS\My Text Editor CS\bin\Debug\My Text Editor CS.exe.config
+D:\Visual Studio Project\My Text Editor CS\My Text Editor CS\bin\Debug\My Text Editor CS.exe
+D:\Visual Studio Project\My Text Editor CS\My Text Editor CS\bin\Debug\My Text Editor CS.pdb
+D:\Visual Studio Project\My Text Editor CS\My Text Editor CS\obj\Debug\My Text Editor CS.csprojAssemblyReference.cache
+D:\Visual Studio Project\My Text Editor CS\My Text Editor CS\obj\Debug\My_Text_Editor_CS.Form1.resources
+D:\Visual Studio Project\My Text Editor CS\My Text Editor CS\obj\Debug\My_Text_Editor_CS.Properties.Resources.resources
+D:\Visual Studio Project\My Text Editor CS\My Text Editor CS\obj\Debug\My Text Editor CS.csproj.GenerateResource.cache
+D:\Visual Studio Project\My Text Editor CS\My Text Editor CS\obj\Debug\My Text Editor CS.exe
+D:\Visual Studio Project\My Text Editor CS\My Text Editor CS\obj\Debug\My Text Editor CS.pdb
